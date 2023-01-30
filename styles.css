@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Prosto+One&display=swap");
+@import url("https://fonts.cdnfonts.com/css/gilroy-bold");
+
+body {
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  background-image: url("Bck.jpg");
+  background-size: 100%;
+}
+
+.main__inp {
+  width: 300px;
+  border-radius: 5px;
+}
+
+.main {
+  background-color: none;
+}
+
+.main__addButton {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.title {
+  background-color: none;
+  text-align: center;
+  padding-top: 12px;
+  height: 100px;
+  color: rgb(159, 174, 188);
+  font-family: "Homemade apple", cursive;
+}
+
+.main__items {
+  text-align: center;
+}
+
